@@ -1,0 +1,37 @@
+Retomar PI
+* Retomar as especificações do Sistema
+* Mapear as classes
+
+
+Tema Gerador Estacionamento
+
+Projeto Java:
+nEstacionamento
+
+
+nome para pacotes do projeto:
+Java Package
+br.com.senactech.nEstacionamento.model
+br.com.senactech.nEstacionamento.controller
+
+
+
+
+trello.com/b/wIqKq3ed/tdsn211
+
+
+Grupo 2:
+Requisito Funcional:
+- Cliente pode visualizar vagas disponíveis
+- O cliente pode verificar o valor a pagar.
+- Adicionar/Remover atendente
+- Adicionar/Remover taxa de estacionamento
+- Deverá indicar o tempo de ocupação de cada vaga
+- Pegar ticket (Ao reservar uma vaga)
+
+Requisito Não funcional
+- Usuário acessa dados criptografados do sistema
+- Autenticação avanzada no login
+- O cliente acessa a qualquer estacionamento indiferente da região.
+- Scan ticket
+- Consultar dados de placa no banco de dados
